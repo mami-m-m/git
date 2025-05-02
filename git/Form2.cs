@@ -101,7 +101,7 @@ namespace git
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
-
+            Console.WriteLine("panel1_Paint");
         }
 
         private void FSnakeGame_KeyDown(object sender, KeyEventArgs e)

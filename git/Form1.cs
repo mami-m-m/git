@@ -27,7 +27,7 @@ namespace git
             f_SnakeGame.Show(this);
 
             // メニューフォームを隠す（インスタンスは残る）
-            Hide();
+            Hide(); //tomoki
         }
 
         private void BEnd_click(object sender, EventArgs e)

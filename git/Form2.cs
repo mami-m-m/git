@@ -126,5 +126,7 @@ namespace git
                     // 何もしない
                     break;
             }
+        }
     }
+
 }
